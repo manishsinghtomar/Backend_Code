@@ -1,4 +1,3 @@
-Here's a **README.md** file template for your **MERN (MongoDB, Express.js, React, Node.js) Stack Backend Repository**. This file provides clear documentation for your backend setup, dependencies, and usage instructions.
 
 ---
 
@@ -98,5 +97,4 @@ This project is **MIT Licensed**. You are free to use, modify, and distribute.
 
 ---
 
-Let me know if you need any modifications! 🚀
 
